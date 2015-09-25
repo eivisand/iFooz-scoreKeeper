@@ -10,5 +10,8 @@
     "iFooz"
   ],
   "author": "iFooz-team",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nan": "^2.0.9"
+  }
 }
