@@ -1,0 +1,14 @@
+{
+  "name": "scorekeeper",
+  "version": "1.0.0",
+  "description": "keeps score by listening to buttonpresses",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha scoreKeeperTests.js"
+  },
+  "keywords": [
+    "iFooz"
+  ],
+  "author": "iFooz-team",
+  "license": "ISC"
+}
